@@ -27,8 +27,10 @@ const servicesData = [
         title: "Python",
         category: "python",
         description: [
+          
             'Python projects serve as a catalyst for extensive development due to its widespread popularity and versatility. Serving as both a programming language and a backend framework with Django, Python is the cornerstone of machine learning applications. Its flexibility makes it an ideal choice for building diverse applications, enabling developers to bring any idea to fruition. Whether its web development, data analysis, or AI-driven solutions, Python empowers developers to innovate and create robust applications that cater to a wide range of needs, making it a go-to language for projects of all scopes and complexities.'
-            },
+        ]  
+        },
     {
         title: "Android Developement",
         category: "androiddevelopement",
