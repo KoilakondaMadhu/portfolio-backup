@@ -3,7 +3,7 @@ const servicesData = [
         title: "Frontend Development", 
         category: "frontend", 
         description: [
-            'I like to code things from scratch, and enjoy bringing ideas to life in the browser., the technnologies i use to build is HTML,CSS,Git' 
+            'coding from scratch, bringing ideas to life in the browser using HTML, CSS, and Git. For frontend development, I utilize EJS (Embedded JavaScript), HTML5, and CSS3, employing them for structure, styling, and seamless integration, ensuring dynamic and visually appealing web experiences' 
         ]
     },
     {
